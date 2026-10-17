@@ -11,7 +11,7 @@ import (
 	"os"
 	"strconv"
 
-	"openpak/xb-live/services/xb-dns/internal/xbdns"
+	"github.com/openpak/xb-dns/internal/xbdns"
 )
 
 func env(k, d string) string {
